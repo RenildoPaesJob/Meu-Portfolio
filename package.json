@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "python": "^0.0.4"
+  }
+}
